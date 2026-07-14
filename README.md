@@ -24,6 +24,10 @@ To adjust pricing based on demand of products and analyze timeline to understand
 
 4.Dashboard link and screenshots.
 
+##Data source:
+
+https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset?select=messy_ecommerce_sales_data.csv
+
 ## Data cleaning steps involved:
 
 1.Dropping duplicate rows.
